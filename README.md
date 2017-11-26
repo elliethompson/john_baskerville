@@ -13,5 +13,5 @@ IXD101 Interaction Design Fundamentals
 History of Type
 ---------------
 - [history 1](https://elliethompson.github.io/john_baskerville/history%20of%20type.html)
-- [history 2](https://elliethompson.github.io/john_baskerville/History%20list.html)
+- [history 2](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type2.html)
 
