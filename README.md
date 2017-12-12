@@ -10,7 +10,7 @@ John Baskerville
 - [Baskerville 5 - Images](https://elliethompson.github.io/john_baskerville/johnbaskerville_version5.html)
 - [Baskerville 6 - CSS](https://elliethompson.github.io/john_baskerville/johnbaskerville_version6.html)
 
--[Baskerville 7 - Final Verision](https://elliethompson.github.io/john_baskerville/johnbaskerville_version7.html)
+- [Baskerville 7 - Final Verision](https://elliethompson.github.io/john_baskerville/johnbaskerville_version7.html)
 
 
 
