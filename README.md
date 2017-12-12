@@ -19,7 +19,7 @@ History of Type
 - [history 3](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type3.html)
 - [history 4](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type4.html)
 - [history 5] 
-- [history 6] 
+(https://github.com/elliethompson.io/john_baskerville/blob/gh-pages/a%20brief%20history%20of%20type5.html)
 
 Typographic Exericse
 --------------------
