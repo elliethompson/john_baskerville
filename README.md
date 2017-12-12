@@ -22,4 +22,3 @@ History of Type
 Typographic Exericse
 --------------------
 - [Typographic Exercise](https://elliethompson.github.io/john_baskerville/typographic_exercise.html)
-https://github.com/elliethompson/john_baskerville/blob/gh-pages/typographic_exercise.html
