@@ -8,7 +8,7 @@ John Baskerville
 - [bakserville 3](https://elliethompson.github.io/john_baskerville/johnbaskerville_version3.html)
 - [baskerville 4](https://elliethompson.github.io/john_baskerville/johnbaskerville_version4.html)
 - [baskerville 5](https://elliethompson.github.io/john_baskerville/johnbaskerville_version5.html)
-- [baskerville 6](https://elliethompson.github.io/john_baskerville/johnbaskerville_version6.html)
+- [baskerville 6](https://elliethompson.github.io/john_baskerville/johnbaskerville_version6.html https://elliethompson.github.io/john_baskerville/CSS/style.css)
 
 
 History of Type
