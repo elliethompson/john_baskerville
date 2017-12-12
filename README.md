@@ -10,9 +10,6 @@ John Baskerville
 - [Baskerville 5 - Images](https://elliethompson.github.io/john_baskerville/johnbaskerville_version5.html)
 - [Baskerville 6 - CSS](https://elliethompson.github.io/john_baskerville/johnbaskerville_version6.html)
 
-- [Baskerville 7 - Final Verision](https://elliethompson.github.io/john_baskerville/johnbaskerville_version7.html)
-
-
 
 History of Type
 ---------------
@@ -25,3 +22,4 @@ History of Type
 Typographic Exericse
 --------------------
 - [Typographic Exercise](https://elliethompson.github.io/john_baskerville/typographic_exercise.html)
+https://github.com/elliethompson/john_baskerville/blob/gh-pages/typographic_exercise.html
