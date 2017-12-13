@@ -16,8 +16,8 @@ History of Type
 - [History 1 - Mark up](https://elliethompson.github.io/john_baskerville/history%20of%20type.html)
 - [history 2 - List & Navigation](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type2.html)
 - [history 3 - Tables](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type3.html)
-- [history 4 - CSS](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type4.html)
-- [history 5 - Final Version](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type5.html)
+- [history 4 - Images](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type4.html)
+- [history 5 - CSS](https://elliethompson.github.io/john_baskerville/a%20brief%20history%20of%20type5.html)
 
 Typographic Exericse
 --------------------
